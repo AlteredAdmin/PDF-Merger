@@ -22,7 +22,7 @@ Ensure you have the following installed on your system:
 
 3. Run the script:
     ```
-    python PDFMergerTool.py
+    python PDFMerger.py
     ```
 
 4. Enter the path of the folder containing the PDFs you wish to merge.
